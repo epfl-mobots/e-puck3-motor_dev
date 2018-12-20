@@ -1,4 +1,4 @@
-Brushless motor=Phase1_P,Phase1_N,Phase2_P,Phase2_N,Phase3_P,Phase3_N,Phase1_sense,Phase2_sense,Phase3_sense,Neutral_sense
+Brushless motor=Phase1_mot1,Phase2_mot1,Phase3_mot1,Phase1_mot2,Phase2_mot2,Phase3_mot2
 I2C=SCL,SDA
 RGB=R,G,B
 SWD=SWCLK,SWDIO
