@@ -258,17 +258,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=Encoders.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HAHSHEVY
+
 [Parameter1]
-Name=Organization_Name
-Value=Laboratoire de Systèmes Robotiques
+Name=Project_Revision
+Value=0.1
 
 [Parameter2]
 Name=Project_Name
-Value=e-puck3 Core board
+Value=e-puck3 motor_dev
 
 [Parameter3]
-Name=Project_Revision
-Value=0.1
+Name=Organization_Name
+Value=Laboratoire de Systèmes Robotiques
 
 [Configuration1]
 Name=Default Configuration
