@@ -3,4 +3,3 @@ I2C=SCL,SDA
 Motor_connection=Phase1,Phase2,Phase3
 RGB=R,G,B
 SPI=MOSI,MISO,SCK
-USB=DP,DM,VBUS
