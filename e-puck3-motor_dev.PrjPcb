@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Main.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -56,7 +56,7 @@ DocumentUniqueId=OQAEQPSL
 
 [Document2]
 DocumentPath=Leds.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -73,7 +73,7 @@ DocumentUniqueId=KSAHNMGF
 
 [Document3]
 DocumentPath=USB.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -90,7 +90,7 @@ DocumentUniqueId=AIVQLQIB
 
 [Document4]
 DocumentPath=Power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,7 +141,7 @@ DocumentUniqueId=HXECJVFG
 
 [Document7]
 DocumentPath=Programmer.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=2Motors_ctrl_2S.SchDoc
+DocumentPath=ESC_2S-5S.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +260,7 @@ DocumentUniqueId=
 
 [Document14]
 DocumentPath=Encoders.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1498,70 +1498,54 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$ComponentIndex_$ChannelIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\AFDABTMX
-DocumentName0=2Motors_ctrl_2S.SchDoc
-IsEnabled0=1
+UniqueIDPath0=\ELIATRTW
+DocumentName0=Encoders.SchDoc
+IsEnabled0=0
 SelectionScope0=All
-Order0=2
+Order0=11
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\SHMVOQNR
-DocumentName1=2Motors_ctrl_2S.SchDoc
-IsEnabled1=1
+UniqueIDPath1=\KSADGEEB
+DocumentName1=Leds.SchDoc
+IsEnabled1=0
 SelectionScope1=All
-Order1=1
+Order1=12
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\ELIATRTW
-DocumentName2=Encoders.SchDoc
+UniqueIDPath2=
+DocumentName2=Main.SchDoc
 IsEnabled2=0
 SelectionScope2=All
-Order2=11
+Order2=3
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\KSADGEEB
-DocumentName3=Leds.SchDoc
+UniqueIDPath3=\JJQDNFQH
+DocumentName3=Power.SchDoc
 IsEnabled3=0
 SelectionScope3=All
-Order3=12
+Order3=7
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=
-DocumentName4=Main.SchDoc
+UniqueIDPath4=\YMOIRNJH
+DocumentName4=Programmer.SchDoc
 IsEnabled4=0
 SelectionScope4=All
-Order4=3
+Order4=8
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\JJQDNFQH
-DocumentName5=Power.SchDoc
+UniqueIDPath5=\WXSIAXFG
+DocumentName5=USB.SchDoc
 IsEnabled5=0
 SelectionScope5=All
-Order5=7
+Order5=10
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\YMOIRNJH
-DocumentName6=Programmer.SchDoc
-IsEnabled6=0
-SelectionScope6=All
-Order6=8
-IndexEnabled6=0
-IndexStartValue6=1
-Suffix6=
-UniqueIDPath7=\WXSIAXFG
-DocumentName7=USB.SchDoc
-IsEnabled7=0
-SelectionScope7=All
-Order7=10
-IndexEnabled7=0
-IndexStartValue7=1
-Suffix7=
 
 [PrjClassGen]
 CompClassManualEnabled=0
