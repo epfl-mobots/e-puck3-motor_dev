@@ -1,4 +1,4 @@
 ADCs_motor=Phase1,Phase2,Phase3
-Brushless motor={SPI:SPI},/CS_SPI,ENABLE,Phase1_P,Phase1_N,Phase2_P,Phase2_N,Phase3_P,Phase3_N,Phase1_sense,Phase2_sense,Phase3_sense,Neutral_sense
+Brushless motor={SPI:SPI},/CS_SPI,/FAULT,ENABLE,Phase1_P,Phase1_N,Phase2_P,Phase2_N,Phase3_P,Phase3_N,Phase1_sense,Phase2_sense,Phase3_sense,Neutral_sense
 Motor_connection=Phase1,Phase2,Phase3
 SPI=MOSI,MISO,SCK
